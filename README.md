@@ -1,7 +1,7 @@
 <!--English-->
 <h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hi!, It's Vicente.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="justify">I'm a first-year Web App Development student in Torrevieja, Alicante. I'm a social person who loves to take up new challenges and learn new skills with enthusiasm!</h4><br>
+<h4 align="justify">I'm a second-year Web App Development student in San Pedro del Pinatar, Murcia. I'm a social person who loves to take up new challenges and learn new skills with enthusiasm!</h4><br>
 <hr>
 <h2>🌐 Contact Me</h2>
 <a href = "mailto:vic.m.profesional@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@VicEscricheM"  /></a>
@@ -10,7 +10,10 @@
 ## 🛠️ My Skills
 
 ### 📖 Programming/Markup languages
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,markdown)](https://skillicons.dev)
+
+### 🖥️ Frontend/Backend Frameworks
+[![My_Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
 ### 💻 Version Control/Management systems
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
@@ -25,7 +28,7 @@
 <!--Español-->
 <h1 align="center"> 🇪🇸 ¡Hola!, soy Vicente.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="justify">Estudiante de primer año de DAW en Torrevieja, Alicante. Me considero una persona social, siempre dispuesta a afrontar nuevos desafios y seguir aprendiendo con entusiasmo.</h4><br>
+<h4 align="justify">Estudiante de segundo año de DAW en San Pedro del Pinatar, Murcia. Me considero una persona social, siempre dispuesta a afrontar nuevos desafios y seguir aprendiendo con entusiasmo.</h4><br>
 <hr>
 <h2>🌐 Contacto</h2>
 <a href = "mailto:vic.m.profesional@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@VicEscricheM"  /></a>
@@ -34,7 +37,10 @@
 ## 🛠️ Mis habilidades
 
 ### 📖 Lenguajes de programación/marcado
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,markdown)](https://skillicons.dev)
+
+### 🖥️ Frontend/Backend Frameworks
+[![My_Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
 ### 💻 Sistemas de control de versiones y SGBD
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
